@@ -1,1 +1,3 @@
 # finances-backend
+
+Em desenvolvimento.
